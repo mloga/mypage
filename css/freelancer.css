@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #5c5c8a;
 }
 h1,
 h2,
@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #5c5c8a;
   color: white;
   background-color: #5c5c8a;
 }
@@ -126,7 +126,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #5c5c8a;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -134,13 +134,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #5c5c8a;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #5c5c8a;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -150,9 +150,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #5c5c8a;
   color: white;
-  border-color: #18BC9C;
+  border-color: #5c5c8a;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -182,7 +182,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #5c5c8a;
   color: white;
   background-color: #5c5c8a;
 }
@@ -368,8 +368,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #5c5c8a;
+  border-color: #5c5c8a;
   font-weight: 700;
 }
 .btn-success:hover,
